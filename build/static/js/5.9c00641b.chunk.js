@@ -1,0 +1,2 @@
+(window["webpackJsonpreact-code-splitting"]=window["webpackJsonpreact-code-splitting"]||[]).push([[5],{34:function(e,n,t){"use strict";t.r(n);var c=t(0),i=t.n(c);n.default=function(){return i.a.createElement("div",null,i.a.createElement("h1",null,"Topics"))}}}]);
+//# sourceMappingURL=5.9c00641b.chunk.js.map

@@ -1,0 +1,1 @@
+{"version":3,"sources":["Topics.js"],"names":["Topics"],"mappings":"uIAAA,2BAUeA,UARf,WACI,OACI,6BACI","file":"static/js/5.9c00641b.chunk.js","sourcesContent":["import React from 'react'\n\nfunction Topics() {\n    return (\n        <div>\n            <h1>Topics</h1>\n        </div>\n    )\n}\n\nexport default Topics\n"],"sourceRoot":""}
